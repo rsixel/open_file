@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  ffi: ^2.0.0-nullsafety
+  ffi: ^0.3.0-nullsafety.2
 
 
 # For information on the generic Dart part of this file, see the
